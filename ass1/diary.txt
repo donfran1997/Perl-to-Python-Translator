@@ -1,0 +1,11 @@
+28/09/17        12:19   13:00   finished subset 0-3 and working perfectly for now
+28/09/17        19:58   20:10   havent start using autotest just seeing what it prints out
+               			starting to break it
+29/09/17	17:32   17:59   started fixing up mistakes and added a few comments to remember
+                                all the regex (so much confusion)
+did nothing until
+3/10/17         whole day       spent crying after using autotest and fixed up most of mistakes and
+  				started subset 4. Glad that extension was an extra day
+4/10/17         whole day       fixed up all mistakes and passed all autotest and started to write 
+                  		demo and test files. Finished most of subset 4 but gave up cause one
+      				case was too hard. please give free marks
